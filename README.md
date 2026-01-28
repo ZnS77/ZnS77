@@ -26,5 +26,4 @@ See my personal website https://zns77.github.io/ for more details!
 
 
 <!-- ![](https://komarev.com/ghpvc/?username=ZnS77) -->
-
-<!-- ![Naisong's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZnS77&show_icons=true&theme=transparent) -->
+[![Naisong's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZnS77)](https://github.com/anuraghazra/github-readme-stats)
